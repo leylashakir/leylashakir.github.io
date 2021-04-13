@@ -11,3 +11,11 @@
   The video below outlines the original two artifacts I enhanced as part of my Capstone project. In the video I will explain the modifications I will be making to the current code in order to showcase the skills I gained during my time at SNHU.
 
 <a href="https://youtu.be/ITTD7Dc7htk"> Click here to watch the full code review!</a>
+
+# Part 2:
+## Data Structures and Algorithms
+	Below is a link to my final project for the category of data structures and algorithms. The artifact I chose for this enhancement was a C++ project where I implemented a linked list, an array, a binary tree, and a hash table from scratch. I wanted to select this project because it was very challenging for me when I first started in the program and I wanted to see how much more I have learned throughout my time at SNHU. I chose to implement the hash table program in Java instead of C++, using the same CSV file, but implementing the Hashtable class from Java generics, with my own hash function.
+	The run time for the artifact improved from using Java generic Hashtable against the C++ version, which is evident from observing the Time Elapsed when running different functions, like load, search, delete, and print all. I did want to implement a more complex hash function than the one I used for C++, but the one I used minimized collisions (as evident when printing all bids, which have different keys in the hashtable). 
+	One of the key improvements was my own ability to read and understand Java documentation and what methods I needed to use to code program behavior. I also was able to account for some corner cases when it comes to user input, which I did not account for in the original C++ app. Taking that into consideration showed me how far I have come from the start of the program to now in developing a software engineer’s ability to analyze what could go wrong and how to prevent the program from crashing.
+
+[Java Hashtable Project](https://github.com/leylashakir/java-hashtable.git).
