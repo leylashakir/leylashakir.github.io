@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <h1>Introduction:</h1>
 <p color="black">When I first started out in the Computer Science program at SNHU I knew that software engineers wrote code, but that was the full extent of my understanding of the career field. This program has helped prepare me to enter the workforce with classes that taught me about team <b>collaboration, communication, data structures and algorithms, engineering, databases, and security</b>. I learned about working in an Agile environment and using git for project collaboration. I created a GitHub account while in the program to showcase some of my projects and collaborated on hackathons with peers from different parts of the world using GitHub.
 	
@@ -27,5 +26,3 @@ The run time for the artifact improved from using Java generic Hashtable against
 One of the key improvements was my own ability to read and understand Java documentation and what methods I needed to use to code program behavior. I also was able to account for some corner cases when it comes to user input, which I did not account for in the original C++ app. Taking that into consideration showed me how far I have come from the start of the program to now in developing a software engineer’s ability to analyze what could go wrong and how to prevent the program from crashing.</p>
 
 <a href="https://github.com/leylashakir/java-hashtable.git">Click here to view Java Hashtable on GitHub</a>.
-</body>
-</html>
